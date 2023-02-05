@@ -1,14 +1,15 @@
 Welcome to my projects/portfolio website repo.
 
 URL: 
-	https://sp794uk.github.io/portfolio/
+	[github hosted website](https://sp794uk.github.io/portfolio/)
 
 Credits:
 
-        Massively by HTML5 UP (html5up.net | @ajlkn)
+        Theme:
+		Massively by HTML5 UP (html5up.net | @ajlkn)
 
-	Demo Images:
-		Unsplash (unsplash.com)
+	Images:
+		Source included under each project description.
 
 	Icons:
 		Font Awesome (fontawesome.io)
