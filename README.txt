@@ -1,5 +1,7 @@
-Welcome to my portfolio page.
+Welcome to my projects/portfolio website repo.
 
+URL: 
+	https://sp794uk.github.io/portfolio/
 
 Credits:
 
